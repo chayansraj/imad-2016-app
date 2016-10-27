@@ -91,7 +91,7 @@ a:hover {
 }
 #footer p {
 	position: relative;
-	padding-top: 10 10 10 10;
+	padding: 10 10 10 10;
 	color: #000066;
 
 }
